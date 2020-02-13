@@ -2,6 +2,6 @@
 
 ## setup
 
--Virtual environment (runs on jupyter) 
--OpenCV
--Matplotlib
+* Virtual environment (runs on jupyter)  
+* OpenCV
+* Matplotlib
